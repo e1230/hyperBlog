@@ -1,0 +1,9 @@
+body{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: bisque;
+}
+
+#cabecera{
+    background: blue;
+}
