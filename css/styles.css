@@ -11,3 +11,8 @@ body{
 header{
     background-image: url("../imagenes/dragon.jpg");
 }
+footer{
+    background-color: azure;
+    align-items: flex-start;
+    
+}
